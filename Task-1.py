@@ -1,1 +1,0 @@
-print ("Zaeem Sheikh S/O Muhmmad Asif and Ayesha Asif. My age is 21 years.")
